@@ -31,4 +31,7 @@
     }
 }
 
+//NSNumber numberWithInit is equal to the following:
+//NSNumber *exampleNumber = [[NSNumber alloc] initWithInt:(some int val)];
+
 @end
