@@ -1,4 +1,4 @@
 calculator-iphone-app
 =====================
 
-iphone Calculator
+Simple iPhone Calculator Application. My first iPhone App.
